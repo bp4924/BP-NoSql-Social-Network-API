@@ -18,6 +18,7 @@
   "homepage": "https://github.com/bp4924/BP-NoSql-api#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "moment": "^2.29.4",
     "mongoose": "^5.13.15"
   }
 }
